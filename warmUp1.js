@@ -4,3 +4,6 @@ var y = 10;
 var z = x + y;
 console.log(z);
 // 2-calculate the area of a square using varaiables.
+
+
+//Heni Says HIIIIIIIIIIIIIIIIIIIIIIII
